@@ -32,16 +32,39 @@
 
 ## 🦁 13기 아기사자
 
-### 🎨 프론트엔드
-
-
-
 
 ### ⚙️ 백엔드
 
+|          [권하연](https://github.com/hyeon-marina)          |          [김민우](https://github.com/MINU-02)          |          [김수정](https://github.com/qpsllove)          |          [김재훈](https://github.com/HOONE665)          |          [김태헌](https://github.com/KTH1007)          |
+| :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: |
+| <img src="https://github.com/hyeon-marina.png" width="120"> | <img src="https://github.com/MINU-02.png" width="120"> | <img src="https://github.com/qpsllove.png" width="120"> | <img src="https://github.com/HOONE665.png" width="120"> | <img src="https://github.com/KTH1007.png" width="120"> |
+
+|          [박동준](https://github.com/qkrehdwns032)          |          [박종범](https://github.com/quakwhad)          |          [서연진](https://github.com/shtfh)          |          [손솔하](https://github.com/Sonsolha)          |          [이가은](https://github.com/Otim0310)          |
+| :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: |
+| <img src="https://github.com/qkrehdwns032.png" width="120"> | <img src="https://github.com/quakwhad.png" width="120"> | <img src="https://github.com/shtfh.png" width="120"> | <img src="https://github.com/Sonsolha.png" width="120"> | <img src="https://github.com/Otim0310.png" width="120"> |
+
+|          [이슬아](https://github.com/seulah03)          |          [이한용](https://github.com/hanyongie)          |          [장대영](https://github.com/hururu1234)          |          [전승빈](https://github.com/sbyeah)          |          [홍효정](https://github.com/hyojeongindeyo)          |
+| :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: |
+| <img src="https://github.com/seulah03.png" width="120"> | <img src="https://github.com/hanyongie.png" width="120"> | <img src="https://github.com/hururu1234.png" width="120"> | <img src="https://github.com/sbyeah.png" width="120"> | <img src="https://github.com/hyojeongindeyo.png" width="120"> |
+
+
+
+### 🎨 프론트엔드
+
+|          [김지안](https://github.com/jahn1899)          |          [박성준](https://github.com/seongjunpark1)          |          [신수연](https://github.com/shinsuyeon-star)          |          [이다정](https://github.com/dz-1010)          |          [이아림](https://github.com/rimedang)          |
+| :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: |
+| <img src="https://github.com/jahn1899.png" width="120"> | <img src="https://github.com/seongjunpark1.png" width="120"> | <img src="https://github.com/shinsuyeon-star.png" width="120"> | <img src="https://github.com/dz-1010.png" width="120"> | <img src="https://github.com/rimedang.png" width="120"> |
+
+|          [이정혁](https://github.com/likevanilla)          |          [최성혁](https://github.com/choisunghyeok38)          |          [최진원](https://github.com/JJING-WONG)          |          [현정빈](https://github.com/JeongBeanHyun)          |
+| :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://github.com/likevanilla.png" width="120"> | <img src="https://github.com/choisunghyeok38.png" width="120"> | <img src="https://github.com/JJING-WONG.png" width="120"> | <img src="https://github.com/JeongBeanHyun.png" width="120"> |
 
 
 
 ### 🤖 AI  
+
+|          [강미소](https://github.com/misokk)          |          [이민준](https://github.com/dlalswns0211)          |          [이창현](https://github.com/Best-Island-LCH)          |          [이하늘](https://github.com/gidalyoung)          |          [조성수](https://github.com/Sungpie)          |          [홍다보미](https://github.com/hongdabomi)          |
+| :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
+| <img src="https://github.com/misokk.png" width="120"> | <img src="https://github.com/dlalswns0211.png" width="120"> | <img src="https://github.com/Best-Island-LCH.png" width="120"> | <img src="https://github.com/gidalyoung.png" width="120"> | <img src="https://github.com/Sungpie.png" width="120"> | <img src="https://github.com/hongdabomi.png" width="120"> |
 
 </div>
