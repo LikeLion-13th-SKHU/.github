@@ -35,9 +35,9 @@
 
 ### ⚙️ 백엔드
 
-|          [권하연](https://github.com/hyeon-marina)          |          [김민우](https://github.com/MINU-02)          |          [김수정](https://github.com/qpsllove)          |          [김재훈](https://github.com/HOONE665)          |          [김태헌](https://github.com/KTH1007)          |
-| :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: |
-| <img src="https://github.com/hyeon-marina.png" width="120"> | <img src="https://github.com/MINU-02.png" width="120"> | <img src="https://github.com/qpsllove.png" width="120"> | <img src="https://github.com/HOONE665.png" width="120"> | <img src="https://github.com/KTH1007.png" width="120"> |
+|          [김민우](https://github.com/MINU-02)          |          [김수정](https://github.com/qpsllove)          |          [김재훈](https://github.com/HOONE665)          |          [김태헌](https://github.com/KTH1007)          |
+| :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: |
+| <img src="https://github.com/MINU-02.png" width="120"> | <img src="https://github.com/qpsllove.png" width="120"> | <img src="https://github.com/HOONE665.png" width="120"> | <img src="https://github.com/KTH1007.png" width="120"> |
 
 |          [박동준](https://github.com/qkrehdwns032)          |          [박종범](https://github.com/quakwhad)          |          [서연진](https://github.com/shtfh)          |          [손솔하](https://github.com/Sonsolha)          |          [이가은](https://github.com/Otim0310)          |
 | :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: |
