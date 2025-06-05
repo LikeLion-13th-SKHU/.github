@@ -51,13 +51,13 @@
 
 ### 🎨 프론트엔드
 
-|          [김지안](https://github.com/jahn1899)          |          [박성준](https://github.com/seongjunpark1)          |          [신수연](https://github.com/shinsuyeon-star)          |          [이다정](https://github.com/dz-1010)       |
+|          [김지안](https://github.com/jahn1899)          |          [박성준](https://github.com/seongjunpark1)          |          [이다정](https://github.com/dz-1010)          |          [이아림](https://github.com/rimedang)       |
 | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: |
-<img src="https://github.com/jahn1899.png" width="120"> | <img src="https://github.com/seongjunpark1.png" width="120"> | <img src="https://github.com/shinsuyeon-star.png" width="120"> | <img src="https://github.com/dz-1010.png" width="120">  |
+<img src="https://github.com/jahn1899.png" width="120"> | <img src="https://github.com/seongjunpark1.png" width="120"> | <img src="https://github.com/dz-1010.png" width="120"> | <img src="https://github.com/rimedang.png" width="120">  |
 
-|          [이아림](https://github.com/rimedang)        |          [이정혁](https://github.com/likevanilla)          |          [최성혁](https://github.com/choisunghyeok38)          |          [최진원](https://github.com/JJING-WONG)        |          [현정빈](https://github.com/JeongBeanHyun)          |
-| :----------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |:-----------------------------------------------------------: |
-| <img src="https://github.com/rimedang.png" width="120">| <img src="https://github.com/likevanilla.png" width="120"> | <img src="https://github.com/choisunghyeok38.png" width="120"> | <img src="https://github.com/JJING-WONG.png" width="120"> | <img src="https://github.com/JeongBeanHyun.png" width="120"> |
+|          [이정혁](https://github.com/likevanilla)          |          [최성혁](https://github.com/choisunghyeok38)          |          [최진원](https://github.com/JJING-WONG)        |          [현정빈](https://github.com/JeongBeanHyun)          |
+|:---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |:-----------------------------------------------------------: |
+| <img src="https://github.com/likevanilla.png" width="120"> | <img src="https://github.com/choisunghyeok38.png" width="120"> | <img src="https://github.com/JJING-WONG.png" width="120"> | <img src="https://github.com/JeongBeanHyun.png" width="120"> |
 
 
 
